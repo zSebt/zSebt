@@ -33,6 +33,13 @@
 <h2 align="center">Weekly stats 📆</h2>
 <div align="center">
   <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     2 mins              █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 </div>
