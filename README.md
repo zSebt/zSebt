@@ -24,8 +24,8 @@
 <h2 align="center">Stats 📊</h2>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com?user=zSebt&theme=prussian&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border_radius=10&count_private=true&card_height=205"/>
-  <img width=390 src="https://github-readme-stats-sebts-projects-8b0f429c.vercel.app/api?username=zSebt&show_icons=true&theme=prussian&hide_border=true&border_radius=10&count_private=true"/>
-  <img width=325 src="https://github-readme-stats-sebts-projects-8b0f429c.vercel.app/api/top-langs/?username=zSebt&layout=compact&theme=prussian&hide_border=true&border_radius=10&count_private=true"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=zSebt&show_icons=true&theme=prussian&hide_border=true&border_radius=10&count_private=true"/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zSebt&layout=compact&theme=prussian&hide_border=true&border_radius=10&count_private=true"/>
 </div>
 
 <br/>
@@ -33,8 +33,6 @@
 <h2 align="center">Daily stats 📆</h2>
 <div align="center">
   <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
 ```text
 💬 Programming Languages: 
 No Activity Tracked This Week
