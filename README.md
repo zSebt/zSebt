@@ -30,7 +30,7 @@
 
 <br/>
 
-<h2 align="center">Daily stats 📆</h2>
+<h2 align="center">Weekly stats 📆</h2>
 <div align="center">
   <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
