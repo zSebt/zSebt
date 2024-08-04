@@ -29,5 +29,76 @@
 <h2 align="center">Daily stats 📆</h2>
 <div align="center">
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+🌆 Daytime                187 commits         █████████████████░░░░░░░░   68.25 % 
+🌃 Evening                80 commits          ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Tuesday                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Thursday                 66 commits          ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Saturday                 46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Sunday                   60 commits          █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     14 repos            █████████████░░░░░░░░░░░░   51.85 % 
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/zSebt/zSebt/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/08/2024 13:09:11 UTC
+<!--END_SECTION:waka-->
 </div>
