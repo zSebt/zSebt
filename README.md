@@ -29,47 +29,13 @@
 <h2 align="center">Daily stats 📆</h2>
 <div align="center">
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-🌆 Daytime                189 commits         █████████████████░░░░░░░░   68.48 % 
-🌃 Evening                80 commits          ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Tuesday                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Thursday                 66 commits          ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Saturday                 46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Sunday                   62 commits          ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Warsaw
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/08/2024 13:20:51 UTC
 <!--END_SECTION:waka-->
 </div>
