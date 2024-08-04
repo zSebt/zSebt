@@ -26,5 +26,9 @@ jobs:
           SHOW_LANGUAGE: true
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_UPDATED_DATE: false
-          SECTION_NAME: "This week stats"
           SHOW_COMMIT: false
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_OS: false
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
