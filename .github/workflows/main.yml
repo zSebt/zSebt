@@ -32,3 +32,5 @@ jobs:
           SHOW_OS: false
           SHOW_TIMEZONE: false
           SHOW_EDITORS: false
+          COMMIT_BY_ME: true
+          COMMIT_MESSAGE: "Daily stats update"
