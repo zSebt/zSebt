@@ -35,9 +35,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Java           2 hrs 32 mins   █████████████████████████   99.98 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java   1 hr 3 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
