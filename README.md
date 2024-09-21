@@ -35,9 +35,8 @@
   <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       6 hrs 37 mins   ██████████████████▓░░░░░░   74.81 %
-Java             2 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.59 %
-Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JavaScript       7 hrs 47 mins   ███████████████████▒░░░░░   77.83 %
+Java             2 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
