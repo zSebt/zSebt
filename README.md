@@ -35,10 +35,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     6 mins          █████████████████████▒░░░   85.80 %
-Java       0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
