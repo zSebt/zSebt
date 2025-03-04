@@ -35,11 +35,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Java           21 mins         █████████████████▒░░░░░░░   69.53 %
-Kotlin         7 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-Shell Script   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Markdown       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-YAML           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
