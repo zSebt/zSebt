@@ -35,11 +35,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       27 mins         █████████░░░░░░░░░░░░░░░░   36.12 %
-TypeScript       27 mins         █████████░░░░░░░░░░░░░░░░   35.49 %
-Prisma           12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-GitIgnore file   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Markdown         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+JavaScript       27 mins         ███████████░░░░░░░░░░░░░░   43.56 %
+TypeScript       18 mins         ███████▒░░░░░░░░░░░░░░░░░   29.55 %
+Prisma           9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+GitIgnore file   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Markdown         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
