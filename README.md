@@ -35,9 +35,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Prisma       31 mins         ███████████████████▒░░░░░   77.98 %
-JavaScript   9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
